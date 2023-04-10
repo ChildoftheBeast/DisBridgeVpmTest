@@ -1,16 +1,16 @@
 {
     "name":"DisBridge Test",
     "id":"com.udonvr.listing",
-    "url":"https://childofthebeast.github.io/DisBridgeVpmTest/index.json",
+    "url":"https://vpm.disbridge.com/index.json",
     "author":{
         "email":"Join the server for help",
         "name":"UdonVR",
         "url":"https://discord.udonvr.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"",
+        "text":""
     },
     "bannerUrl":"banner.png",
     "packages":[
