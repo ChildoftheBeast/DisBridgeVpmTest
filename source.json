@@ -7,10 +7,10 @@
         "name":"UdonVR",
         "url":"https://discord.udonvr.com"
     },
-    "description":"",
+    "description":"Need Help?",
     "infoLink":{
-        "url":"",
-        "text":""
+        "url":"https://discord.udonvr.com",
+        "text":"Join the Discord server!"
     },
     "bannerUrl":"banner.png",
     "packages":[
