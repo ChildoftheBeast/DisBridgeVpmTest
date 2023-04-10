@@ -1,11 +1,11 @@
 {
-    "name":"My Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"DisBridge Test",
+    "id":"com.udonvr.listing",
+    "url":"https://childofthebeast.github.io/DisBridgeVpmTest/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"Join the server for help",
+        "name":"UdonVR",
+        "url":"https://discord.udonvr.com"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
@@ -13,15 +13,11 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.udonvr.disbridge",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/ChildoftheBeast/DisBridgeVpmTest/blob/4ec38d9cb6959eff9db98635ba45bd9a7c1827ae/Exports/com.udonvr.disbridge-2.0.0-alpha.3.zip"
             ]
         }
     ]
