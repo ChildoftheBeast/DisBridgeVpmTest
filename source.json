@@ -38,6 +38,10 @@
             "name":"com.udonvr.disbridge.plugin.protv",
             "releases":[
                 "https://github.com/UdonVR/DisBridge-ProTv/releases/download/1.0.0/disbridge.plugin.protv.zip"
+            ],
+            "name":"com.udonvr.tools",
+            "releases":[
+                "https://github.com/UdonVR/Tools/releases/download/1.1.0/com.udonvr.tools-1.1.0.zip"
             ]
         }
     ]
