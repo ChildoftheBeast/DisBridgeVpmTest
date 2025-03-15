@@ -39,7 +39,8 @@
                 "https://github.com/UdonVR/DisBridge/releases/download/3.0.0-beta.34/disbridge-3.0.0-beta.34.zip",
                 "https://github.com/UdonVR/DisBridge/releases/download/3.0.0-beta.36/disbridge-3.0.0-beta.36.zip",
                 "https://github.com/UdonVR/DisBridge/releases/download/3.0.0-beta.36/disbridge-3.0.0-beta.38.zip",
-                "https://github.com/UdonVR/DisBridge/releases/download/3.0.0-beta.39/disbridge-3.0.0-beta.39.zip"
+                "https://github.com/UdonVR/DisBridge/releases/download/3.0.0-beta.39/disbridge-3.0.0-beta.39.zip",
+                "https://github.com/UdonVR/DisBridge/releases/download/3.0.0-beta.39/disbridge-3.0.0-beta.40.zip"
             ],
             "name":"com.udonvr.disbridge.plugin.protv",
             "releases":[
