@@ -44,7 +44,8 @@
             ],
             "name":"com.udonvr.tools",
             "releases":[
-                "https://github.com/UdonVR/Tools/releases/download/1.1.0/com.udonvr.tools-1.1.0.zip"
+                "https://github.com/UdonVR/Tools/releases/download/1.1.0/com.udonvr.tools-1.1.0.zip",
+                "https://github.com/UdonVR/Tools/releases/download/1.2.0/com.udonvr.tools-1.2.0.zip"
             ]
         }
     ]
