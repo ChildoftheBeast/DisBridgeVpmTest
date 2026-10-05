@@ -58,6 +58,10 @@
                 "https://github.com/UdonVR/Tools/releases/download/1.2.0/com.udonvr.tools-1.2.0.zip",
                 "https://github.com/UdonVR/Tools/releases/download/1.2.1/com.udonvr.tools-1.2.1.zip",
                 "https://github.com/UdonVR/Tools/releases/download/1.3.0/com.udonvr.tools-1.3.0.zip"
+            ],
+            "name":"com.udonvr.disbridge.audiolinklock",
+            "releases":[
+                "https://github.com/UdonVR/DisBridge-AudioLinkLock/releases/download/1.0.0/package.zip"
             ]
         }
     ]
