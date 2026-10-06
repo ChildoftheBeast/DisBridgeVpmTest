@@ -61,7 +61,8 @@
             ],
             "name":"com.udonvr.disbridge.audiolinklock",
             "releases":[
-                "https://github.com/UdonVR/DisBridge-AudioLinkLock/releases/download/1.0.2/package.zip"
+                "https://github.com/UdonVR/DisBridge-AudioLinkLock/releases/download/1.0.2/package.zip",
+                "https://github.com/UdonVR/DisBridge-AudioLinkLock/releases/download/1.0.3/package.zip"
             ]
         }
     ]
